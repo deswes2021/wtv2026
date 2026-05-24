@@ -116,6 +116,12 @@
   logo:"./img/ytbmusicales.jpg",
   url:"ytbmusicales"
 },
+{
+  nombre:"adultos",
+  tipo:"menu",
+  logo:"./img/adultos.jpg",
+  url:"adultos"
+},
 
   // ====== opciones ======
   {
