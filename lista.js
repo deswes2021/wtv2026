@@ -1,0 +1,79 @@
+// ====== WTV2026 ======
+[
+
+  // ====== menu ======
+{
+  nombre:"opciones",
+  tipo:"menu",
+  logo:"./img/opciones.jpg",
+  url:"opciones"
+},
+{
+  nombre:"nacionales",
+  tipo:"menu",
+  logo:"./img/nacionales.jpg",
+  url:"nacionales"
+},
+{
+  nombre:"infantiles",
+  tipo:"menu",
+  logo:"./img/infantiles.jpg",
+  url:"infantiles"
+},
+{
+  nombre:"novelas",
+  tipo:"menu",
+  logo:"./img/novelas.jpg",
+  url:"novelas"
+},
+{
+  nombre:"naturaleza",
+  tipo:"menu",
+  logo:"./img/naturaleza.jpg",
+  url:"naturaleza"
+},
+{
+  nombre:"variedades",
+  tipo:"menu",
+  logo:"./img/variedades.jpg",
+  url:"variedades"
+},
+{
+  nombre:"cinemas",
+  tipo:"menu",
+  logo:"./img/cinemas.jpg",
+  url:"cinemas"
+},
+{
+  nombre:"deportes",
+  tipo:"menu",
+  logo:"./img/deportes.jpg",
+  url:"deportes"
+},
+{
+  nombre:"religiosos",
+  tipo:"menu",
+  logo:"./img/religiosos.jpg",
+  url:"religiosos"
+},
+{
+  nombre:"musicales",
+  tipo:"menu",
+  logo:"./img/musicales.jpg",
+  url:"musicales"
+},
+
+  // ====== opciones ======
+  {
+  nombre:"actualizar",
+  tipo:"opciones",
+  logo:"./img/actualizar.jpg",
+  url:"actualizar"
+},
+  {
+  nombre:"borrar cache",
+  tipo:"opciones",
+  logo:"./img/borrarcache.jpg",
+  url:"borrarcache"
+}
+]
