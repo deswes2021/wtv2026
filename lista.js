@@ -62,6 +62,60 @@
   logo:"./img/musicales.jpg",
   url:"musicales"
 },
+{
+  nombre:"YTB Oeste",
+  tipo:"menu",
+  logo:"./img/ytboeste.jpg",
+  url:"ytboeste"
+},
+{
+  nombre:"YTB Guerra",
+  tipo:"menu",
+  logo:"./img/ytbguerra.jpg",
+  url:"ytbguerra"
+},
+{
+  nombre:"YTB Ficcion",
+  tipo:"menu",
+  logo:"./img/ytbficcion.jpg",
+  url:"ytbficcion"
+},
+{
+  nombre:"YTB Fantasia",
+  tipo:"menu",
+  logo:"./img/ytbfantasia.jpg",
+  url:"ytbfantasia"
+},
+{
+  nombre:"YTB Horror",
+  tipo:"menu",
+  logo:"./img/ytbhorror.jpg",
+  url:"ytbhorror"
+},
+{
+  nombre:"YTB Infantil",
+  tipo:"menu",
+  logo:"./img/ytbinfantil.jpg",
+  url:"ytbinfantil"
+},
+{
+  nombre:"YTB Anime",
+  tipo:"menu",
+  logo:"./img/ytbanime.jpg",
+  url:"ytbanime"
+},
+{
+  nombre:"YTB Familiar",
+  tipo:"menu",
+  logo:"./img/ytbfamiliar.jpg",
+  url:"ytbfamiliar"
+},
+{
+  nombre:"YTB Musicales",
+  tipo:"menu",
+  logo:"./img/ytbmusicales.jpg",
+  url:"ytbmusicales"
+},
 
   // ====== opciones ======
   {
@@ -75,5 +129,8 @@
   tipo:"opciones",
   logo:"./img/borrarcache.jpg",
   url:"borrarcache"
-}
+},
+ // ====== youtube ======
+  {
+  
 ]
