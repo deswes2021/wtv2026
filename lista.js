@@ -129,8 +129,7 @@
   tipo:"opciones",
   logo:"./img/borrarcache.jpg",
   url:"borrarcache"
-},
+}
  // ====== youtube ======
-  {
   
 ]
