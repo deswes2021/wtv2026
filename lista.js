@@ -1,141 +1,137 @@
-// ====== WTV2026 ======
-[
+#EXTJS
 
-  // ====== menu ======
-{
-  nombre:"opciones",
-  tipo:"menu",
-  logo:"opciones.jpg",
-  url:"opciones"
-},
-{
-  nombre:"nacionales",
-  tipo:"menu",
-  logo:"nacionales.jpg",
-  url:"nacionales"
-},
-{
-  nombre:"infantiles",
-  tipo:"menu",
-  logo:"infantiles.jpg",
-  url:"infantiles"
-},
-{
-  nombre:"novelas",
-  tipo:"menu",
-  logo:"novelas.jpg",
-  url:"novelas"
-},
-{
-  nombre:"naturaleza",
-  tipo:"menu",
-  logo:"naturaleza.jpg",
-  url:"naturaleza"
-},
-{
-  nombre:"variedades",
-  tipo:"menu",
-  logo:"variedades.jpg",
-  url:"variedades"
-},
-{
-  nombre:"cinemas",
-  tipo:"menu",
-  logo:"cinemas.jpg",
-  url:"cinemas"
-},
-{
-  nombre:"deportes",
-  tipo:"menu",
-  logo:"deportes.jpg",
-  url:"deportes"
-},
-{
-  nombre:"religiosos",
-  tipo:"menu",
-  logo:"religiosos.jpg",
-  url:"religiosos"
-},
-{
-  nombre:"musicales",
-  tipo:"menu",
-  logo:"musicales.jpg",
-  url:"musicales"
-},
-{
-  nombre:"YTB Oeste",
-  tipo:"menu",
-  logo:"ytboeste.jpg",
-  url:"ytboeste"
-},
-{
-  nombre:"YTB Guerra",
-  tipo:"menu",
-  logo:"ytbguerra.jpg",
-  url:"ytbguerra"
-},
-{
-  nombre:"YTB Ficcion",
-  tipo:"menu",
-  logo:"ytbficcion.jpg",
-  url:"ytbficcion"
-},
-{
-  nombre:"YTB Fantasia",
-  tipo:"menu",
-  logo:"ytbfantasia.jpg",
-  url:"ytbfantasia"
-},
-{
-  nombre:"YTB Horror",
-  tipo:"menu",
-  logo:"ytbhorror.jpg",
-  url:"ytbhorror"
-},
-{
-  nombre:"YTB Infantil",
-  tipo:"menu",
-  logo:"ytbinfantil.jpg",
-  url:"ytbinfantil"
-},
-{
-  nombre:"YTB Anime",
-  tipo:"menu",
-  logo:"ytbanime.jpg",
-  url:"ytbanime"
-},
-{
-  nombre:"YTB Familiar",
-  tipo:"menu",
-  logo:"ytbfamiliar.jpg",
-  url:"ytbfamiliar"
-},
-{
-  nombre:"YTB Musicales",
-  tipo:"menu",
-  logo:"ytbmusicales.jpg",
-  url:"ytbmusicales"
-},
-{
-  nombre:"adultos",
-  tipo:"menu",
-  logo:"adultos.jpg",
-  url:"adultos"
-},
+# NACIONALES
+#JS: nom:"canal 1" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url:""
+#JS: nom:"canal 2" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal2.jpg" url:"https://cdn.jwplayer.com/live/broadcast/rs57DmcK.m3u8"
+#JS: nom:"canal 3" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal3.jpg" url:""
+#JS: nom:"canal 4" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal4.jpg" url:"https://cdn.jwplayer.com/live/broadcast/D3kaa3Ky.m3u8"
+#JS: nom:"canal 5" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal5.jpg" url:""
+#JS: nom:"canal 6" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal6.jpg" url:"https://cdn.jwplayer.com/live/broadcast/ItQSct4R.m3u8"
+#JS: nom:"canal 7" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal7.jpg" url:""
+#JS: nom:"canal 8" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal8.jpg" url:""
+#JS: nom:"canal 9" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal9.jpg" url:""
+#JS: nom:"canal 10" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal10.jpg" url:""
+#JS: nom:"canal 11" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal11.jpg" url:"https://stream.giostreaming.app/canal11/canal11.m3u8"
+#JS: nom:"canal 12" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal12.jpg" url:"https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
+#JS: nom:"canal 13" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal13.jpg" url:""
+#JS: nom:"canal 14" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal14.jpg" url:""
+#JS: nom:"canal 15" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal15.jpg" url:""
+#JS: nom:"canal 16" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal16.jpg" url:""
+#JS: nom:"canal 17" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal17.jpg" url:""
+#JS: nom:"canal 18" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal18.jpg" url:""
+#JS: nom:"canal 19" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal19.jpg" url:"https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8"
+#JS: nom:"canal 20" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal20.jpg" url:""
+#JS: nom:"canal 21" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal21.jpg" url:"https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8"
+#JS: nom:"canal 22" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal22.jpg" url:""
+#JS: nom:"canal 23" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal23.jpg" url:""
+#JS: nom:"canal 24" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal24.jpg" url:""
+#JS: nom:"canal 25" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal25.jpg" url:""
+#JS: nom:"canal 26" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal26.jpg" url:""
+#JS: nom:"canal 27" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal27.jpg" url:""
+#JS: nom:"canal 28" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal28.jpg" url:""
+#JS: nom:"canal 29" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal29.jpg" url:""
+#JS: nom:"canal 30" tpo:"nacional" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canal30.jpg" url:""
 
-  // ====== opciones ======
-  {
-  nombre:"actualizar",
-  tipo:"opciones",
-  logo:"actualizar.jpg",
-  url:"actualizar"
-},
-  {
-  nombre:"borrar cache",
-  tipo:"opciones",
-  logo:"borrarcache.jpg",
-  url:"borrarcache"
-}
- // ====== youtube ======
-  
-]
+# VARIADO
+#JS: nom:"hola play" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/holaplay.jpg" url:"https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
+#JS: nom:"xtremaanimal" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/xtremaanimal.jpg" url:"https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8"
+#JS: nom:"loveplanet" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/loveplanet.jpg" url:"https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8"
+#JS: nom:"nat geo" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/natgeo.jpg" url:"https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+#JS: nom:"cgtn" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/cgtn.jpg" url:"https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+#JS: nom:"carastv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/carastv.jpg" url:"https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8"
+#JS: nom:"13cultura" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/13cultura.jpg" url:"https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8" url2="https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+#JS: nom:"13festival" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/13festival.jpg" url:"https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+#JS: nom:"13reality" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/13reality.jpg" url:"https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+#JS: nom:"13series" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/13series.jpg" url:"https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+#JS: nom:"tvfamilia" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/tvfamilia.jpg" url:"https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8"
+#JS: nom:"cnnesp" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/cnnesp.jpg" url:"https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8"
+#JS: nom:"tvmundo51" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/tvmundo51.jpg" url:"https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8"
+#JS: nom:"dwtv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/dwtv.jpg" url:"https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+#JS: nom:"hispaniamediatv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/hispaniamediatv.jpg" url:"https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8"
+#JS: nom:"novelicima" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/novelicima.jpg" url:"https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
+#JS: nom:"canelatv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canelatv.jpg" url:"https://spt-novelas-1-us.canelatv.wurl.tv/playlist.m3u8"
+#JS: nom:"somosnovelas" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/somosnovelas.jpg" url:"https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8"
+#JS: nom:"corazon" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/corazon.jpg" url:"https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8"
+#JS: nom:"tuuniversotv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/tuuniversotv.jpg" url:"https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
+#JS: nom:"rcnnovelas" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/rcnnovelas.jpg" url:"https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8"
+#JS: nom:"azteca Internacional" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/aztecaInternacional.jpg" url:"https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+#JS: nom:"ciudad magazine" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/ciudadmagazine.jpg" url:"https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8"
+#JS: nom:"garabito tv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/garabitotv.jpg" url:"https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
+#JS: nom:"garage tv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/garagetv.jpg" url:"https://stream1.sersat.com/hls/garagetv.m3u8"
+#JS: nom:"estrellas 1" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/estrellas1.jpg" url:"https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+#JS: nom:"latina 1" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/latina1.jpg" url:"https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8"
+#JS: nom:"latina 2" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/latina2.jpg" url:"https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
+#JS: nom:"logos salud" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/logossaludh.jpg" url:"https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
+#JS: nom:"nayarit tv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/nayarittv.jpg" url:"https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
+#JS: nom:"sony novelas" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/sonynovelas.jpg" url:"https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+#JS: nom:"azteca corazon" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/aztcorazon.jpg" url:"https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8"
+#JS: nom:"rcn +" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/rcnmas.jpg" url:"https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+#JS: nom:"novelas mx" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/novelasmx.jpg" url:"https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8"
+#JS: nom:"romance tv" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/romancetv.jpg" url:"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8"
+#JS: nom:"telemundo romance" tpo:"variado" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/telemundoromance" url:"https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8"
+
+# INFANTIL
+#JS: nom:"magics tream" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/magicstream.jpg" url:"https://magicstream.ddns.net/magicstream/stream.m3u8"
+#JS: nom:"anime vision" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/animevision.jpg" url:"https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"
+#JS: nom:"anime vision classic" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/animevisionclassic.jpg" url:"https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8"
+#JS: nom:"diosteve kids" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/diostevekids.jpg" url:"https://s.emisoras.tv:8081/diostevekids/index.m3u8"
+#JS: nom:"energeek retro" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/energeekretro.jpg" url:"https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+#JS: nom:"extrema kids" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/extremakids.jpg" url:"https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+#JS: nom:"logoskidsh" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/logoskidsh.jpg" url:"https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
+#JS: nom:"penielkids" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/penielkids.jpg" url:"https://s.emisoras.tv:8081/penielkids/index.m3u8"
+#JS: nom:"peque tv" tpo:"infantil" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/pequetv.jpg" url:"https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
+
+# CINE
+#JS: nom:"retrox tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/retroxtvlive.jpg" url:"https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8"
+#JS: nom:"canela cine" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/canelacine.jpg" url:"https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8"
+#JS: nom:"grjngo" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/grjngo.jpg" url:"https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8"
+#JS: nom:"runtimemovie" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimemovie.jpg" url:"https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8"
+#JS: nom:"pelimex" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/pelimex.jpg" url:"https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8"
+#JS: nom:"todocine" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/todocine.jpg" url:"https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565"
+#JS: nom:"runtimeesp" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimeesp.jpg" url:"https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8"
+#JS: nom:"runtimeaction" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimeaction.jpg" url:"https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8"
+#JS: nom:"runtimeseries" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimeseries.jpg" url:"https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8"
+#JS: nom:"cineaccion" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/cineaccion.jpg" url:"https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8"
+#JS: nom:"runtimecomedy" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimecomedy.jpg" url:"https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8"
+#JS: nom:"runtimecrimen" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimecrimen.jpg" url:"https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527"
+#JS: nom:"ame 47" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/ame47.jpg" url:"https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8"
+#JS: nom:"antares tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/antarestv.jpg" url:"https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+#JS: nom:"atacama tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/atacamatv.jpg" url:"https://v2.tustreaming.cl/atacamatv/index.m3u8"
+#JS: nom:"clan" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/clan.jpg" url:"https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8"
+#JS: nom:"claro tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/clarotv.jpg" url:"https://streamunoapp.com:3960/live/claroteledomlive.m3u8"
+#JS: nom:"claro vision" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/clarovision.jpg" url:"https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8"
+#JS: nom:"constanza tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/constanzatv.jpg" url:"https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8"
+#JS: nom:"constivision" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/constivision.jpg" url:"https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
+#JS: nom:"distrito tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/distritotv.jpg" url:"https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
+#JS: nom:"eltrece tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/eltrecetv.jpg" url:"https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
+#JS: nom:"extrema tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/extrematv.jpg" url:"https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+#JS: nom:"galaxia tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/galaxiateve.jpg" url:"https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8"
+#JS: nom:"gam tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/gamtv.jpg" url:"https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
+#JS: nom:"grande" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/grandetvjpg" url:"https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
+#JS: nom:"mytime" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/mytime" url:"https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+#JS: nom:"mytime 2" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/mytime2" url:"https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+#JS: nom:"rakuten action" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/rakutenaction" url:"https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+#JS: nom:"rakuten movies" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/rakutenmovies" url:"https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+#JS: nom:"rakuten dramas" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/rakutendramas" url:"https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
+#JS: nom:"rakuten family" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/rakutenfamily" url:"https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+#JS: nom:"rakuten top" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/rakutentop" url:"https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+#JS: nom:"turismo hd" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/turismohd" url:"https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8"
+#JS: nom:"megacine tv" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/megacinetv" url:"https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8"
+#JS: nom:"telemundo action" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/telemundoaction" url:"https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
+#JS: nom:"free action" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/freeaction" url:"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8"
+#JS: nom:"free drama" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/freedrama" url:"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8"
+#JS: nom:"free estelar" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/freeestelar" url:"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8"
+#JS: nom:"free live" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/freelive" url:"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8"
+#JS: nom:"free terror" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/freeterror" url:"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8"
+#JS: nom:"free sureño" tpo:"cine" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/freesureño" url:"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8"
+
+#DEPORTES
+#JS: nom:"fox sport 2mx" tpo:"deportes" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/foxsport2mx.jpg" url:"http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8"
+
+# RELIGIOSO
+#JS: nom:"3abn" tpo:"religioso" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/3abn.jpg" url:"https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
+#JS: nom:"A&R" tpo:"religioso" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/ayr.jpg" url:"http://51.222.9.192:3589/stream/play.m3u8"
+#JS: nom:"adorama tv" tpo:"religioso" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/adoramtv.jpg" url:"https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8"
+#JS: nom:"avivamientohd" tpo:"religioso" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/avivamientohd.jpg" url:"https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+#JS: nom:"cielo tv" tpo:"religioso" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/cielotv.jpg" url:"https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
+#JS: nom:"diosteve tv" tpo:"religioso" lgo:"https://raw.githubusercontent.com/deswes2021/westv/main/img/diostevetv.jpg" url:"https://s.emisoras.tv:8081/diostevetv/index.m3u8"
