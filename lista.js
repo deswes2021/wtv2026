@@ -1,16 +1,16 @@
 #EXTJS
 
 # NACIONALES
-#JS: nom:"canal 1" tpo:"nacional" lgo:"canal1.jpg" url:""
+#JS: nom:"canal 1" tpo:"nacional" lgo:"canal1.jpg" url:"https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8"
 #JS: nom:"canal 2" tpo:"nacional" lgo:"canal2.jpg" url:"https://cdn.jwplayer.com/live/broadcast/rs57DmcK.m3u8"
-#JS: nom:"canal 3" tpo:"nacional" lgo:"canal3.jpg" url:""
+#JS: nom:"canal 3" tpo:"nacional" lgo:"canal3.jpg" url:"https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8"
 #JS: nom:"canal 4" tpo:"nacional" lgo:"canal4.jpg" url:"https://cdn.jwplayer.com/live/broadcast/D3kaa3Ky.m3u8"
 #JS: nom:"canal 5" tpo:"nacional" lgo:"canal5.jpg" url:""
 #JS: nom:"canal 6" tpo:"nacional" lgo:"canal6.jpg" url:"https://cdn.jwplayer.com/live/broadcast/ItQSct4R.m3u8"
 #JS: nom:"canal 7" tpo:"nacional" lgo:"canal7.jpg" url:""
-#JS: nom:"canal 8" tpo:"nacional" lgo:"canal8.jpg" url:""
+#JS: nom:"canal 8" tpo:"nacional" lgo:"canal8.jpg" url:"https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8"
 #JS: nom:"canal 9" tpo:"nacional" lgo:"canal9.jpg" url:""
-#JS: nom:"canal 10" tpo:"nacional" lgo:"canal10.jpg" url:""
+#JS: nom:"canal 10" tpo:"nacional" lgo:"canal10.jpg" url:"https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
 #JS: nom:"canal 11" tpo:"nacional" lgo:"canal11.jpg" url:"https://stream.giostreaming.app/canal11/canal11.m3u8"
 #JS: nom:"canal 12" tpo:"nacional" lgo:"canal12.jpg" url:"https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
 #JS: nom:"canal 13" tpo:"nacional" lgo:"canal13.jpg" url:""
