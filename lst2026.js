@@ -55,13 +55,13 @@
         //--OPCIONES--------------------------------------------------------------------------
                  {
             nombre: `actualizar`,
-            tipo: `menu`,
+            tipo: `opciones`,
             logo: `./img/actualizar.jpg`,
             url: `actualizar`
         },
                          {
             nombre: `borrar cache`,
-            tipo: `menu`,
+            tipo: `opciones`,
             logo: `./img/borrarcache.jpg`,
             url: `borrarcache`
         },
