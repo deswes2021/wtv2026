@@ -65,11 +65,17 @@
             logo: `./img/actualizar.jpg`,
             url: `actualizar`
         },
-                         {
+        {
             nombre: `borrar cache`,
             tipo: `opciones`,
             logo: `./img/borrarcache.jpg`,
             url: `borrarcache`
+        },
+        {
+            nombre: `Check Lst`,
+            tipo: `opciones`,
+            logo: `./img/CheckLst.jpg`,
+            url: `CheckLst`
         },
         //--NACIONAL--------------------------------------------------------------------------
         //--NACIONAL--------------------------------------------------------------------------
