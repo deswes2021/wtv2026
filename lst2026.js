@@ -5,7 +5,7 @@
          {
             nombre: `opciones`,
             tipo: `menu`,
-            logo: `./logos/opciones.jpg`,
+            logo: `./img/opciones.jpg`,
             url: `opciones`
         },
         {
