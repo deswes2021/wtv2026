@@ -48,7 +48,13 @@
             nombre: `musica`,
             tipo: `menu`,
             logo: `./logos/musica.jpg`,
-            url: ``
+            url: `musica`
+        },
+        {
+            nombre: `xxx`,
+            tipo: `menu`,
+            logo: `./logos/xxx.jpg`,
+            url: `xxx`
         },
         //--OPCIONES--------------------------------------------------------------------------
         //--OPCIONES--------------------------------------------------------------------------
