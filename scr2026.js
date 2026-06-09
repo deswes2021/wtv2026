@@ -1,7 +1,6 @@
-window.allONE = {
+let nombre: "deswes";
+let version: "1.0";
+let añp: "2026";
 
-    chkCANAL() { alert("uno"); },
-
-    setCANAL() { alert("dos"); }
-
-};
+function chkCANAL() { alert("uno"); }
+function setCANAL() { alert("dos"); }
