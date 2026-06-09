@@ -102,7 +102,7 @@
             nombre: `canal 4`,
             tipo: `nacionales`,
             logo: `./logos/canal4.jpg`,
-            url: `https://cdn.jwplayer.com/live/broadcast/D3kaa3Ky.m3u8`
+            url: `https://cdn.jwplayer.com/live/broadcast/U5TzwwfR.m3u8`
         },
         {
             nombre: `canal 5`,
