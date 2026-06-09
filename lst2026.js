@@ -1045,6 +1045,6 @@
             nombre: `Scary Movie 6`,
             tipo: `peliculas`,
             logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/ScaryMovie6.jpg`,
-            url: `https://streamimdb.ru/embed/movie/tt32093575`
+            url: `https://nextgencloudfabric.com/embed/movie/tt32093575`
         },
     ]
