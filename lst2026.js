@@ -48,7 +48,7 @@
             nombre: `musica`,
             tipo: `menu`,
             logo: `./logos/musica.jpg`,
-            url: ``
+            url: `musica`
         },
         {
             nombre: `xxx`,
