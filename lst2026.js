@@ -126,7 +126,7 @@
         nombre: `canal 4`,
         tipo: `nacionales`,
         logo: `./logos/canal4.jpg`,
-        url: `https://cdn.jwplayer.com/live/broadcast/U5TzwwfR.m3u8`
+        url: `https://cdn.jwplayer.com/live/broadcast/8yP8hCEc.m3u8`
     },
     {
         nombre: `canal 5`,
