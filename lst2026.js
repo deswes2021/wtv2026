@@ -126,7 +126,7 @@
         nombre: `canal 4`,
         tipo: `nacionales`,
         logo: `./logos/canal4.jpg`,
-        url: `https://cdn.jwplayer.com/live/broadcast/8yP8hCEc.m3u8`
+        url: `https://signal.teleon.live/stream/canal4sv.m3u8?token=free`
     },
     {
         nombre: `canal 5`,
