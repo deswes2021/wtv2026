@@ -1355,5 +1355,11 @@
     tipo: `peliculas`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/guardianesvol2.jpg`,
     url: `https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Guardianes%20de%20la%20Galaxia%20volumen%203%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4`
-  },   
+  },
+  {
+    nombre: `ballerina`,
+    tipo: `peliculas`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/ballerina.jpg`,
+    url: `.weshttps://playmogo.com/e/vhgdnbi3mbq0`
+  },    
 ]
