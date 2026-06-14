@@ -80,20 +80,20 @@
     {
         nombre: `Check Lst`,
         tipo: `opciones`,
-        logo: `./img/CheckLst.jpg`,
-        url: `.CheckLst`
+        logo: `./img/checkLst.jpg`,
+        url: `.checkLst`
     },
     {
         nombre: `Add Lst`,
         tipo: `opciones`,
-        logo: `./img/AddLst.jpg`,
-        url: `.AddLst`
+        logo: `./img/addLst.jpg`,
+        url: `.addLst`
     },
     {
         nombre: `Player`,
         tipo: `opciones`,
-        logo: `./img/Player.jpg`,
-        url: `.Player`
+        logo: `./img/player.jpg`,
+        url: `.player`
     },
     {
         nombre: `VIP`,
@@ -106,15 +106,21 @@
     //--OPCIONES--------------------------------------------------------------------------
     {
         nombre: `Player HLS`,
-        tipo: `opciones`,
-        logo: `./img/hls.jpg`,
-        url: `.hls`
+        tipo: `player`,
+        logo: `./img/hlsplayer.jpg`,
+        url: `.hlsplayer`
     },
     {
         nombre: `Player CLAPPR`,
-        tipo: `opciones`,
-        logo: `./img/clappr.jpg`,
-        url: `.clappr`
+        tipo: `player`,
+        logo: `./img/clapprplayer.jpg`,
+        url: `.clapprplayer`
+    },
+    {
+        nombre: `Player JW`,
+        tipo: `player`,
+        logo: `./img/jwplayer.jpg`,
+        url: `.jwplayer`
     },
     //--NACIONAL--------------------------------------------------------------------------
     //--NACIONAL--------------------------------------------------------------------------
