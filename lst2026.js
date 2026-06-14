@@ -1339,9 +1339,21 @@
   //--PELICULAS--------------------------------------------------------------------------
   //--PELICULAS--------------------------------------------------------------------------
   {
-    nombre: `Scary Movie 6`,
+    nombre: `John Wick4`,
     tipo: `peliculas`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/johnwick4.jpg`,
     url: `"https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"`
-  }
+  },
+  {
+    nombre: `Super Mario Bros`,
+    tipo: `peliculas`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/mariobros.jpg`,
+    url: `https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4`
+  },  
+  {
+    nombre: `Guardianes V2`,
+    tipo: `peliculas`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/guardianesvol2.jpg`,
+    url: `https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Guardianes%20de%20la%20Galaxia%20volumen%203%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4`
+  },   
 ]
