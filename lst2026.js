@@ -1342,7 +1342,7 @@
     nombre: `John Wick4`,
     tipo: `peliculas`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/johnwick4.jpg`,
-    url: `"https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"`
+    url: `https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4`
   },
   {
     nombre: `Super Mario Bros`,
