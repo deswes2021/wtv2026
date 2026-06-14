@@ -967,6 +967,12 @@
     url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=tudn&target=2`
   },
   {
+    nombre: `tudn`,
+    tipo: `deportes`,
+    logo: `./logos/tudn.jpg`,
+    url: `https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8`
+  },  
+  {
     nombre: `luchaplus`,
     tipo: `deportes`,
     logo: `./img/luchaplus.jpg`,
