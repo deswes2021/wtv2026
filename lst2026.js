@@ -5,7 +5,7 @@
   {
     nombre: `opciones`,
     tipo: `menu`,
-    logo: `./img/opciones.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/opciones.jpg`,
     url: `opciones`
   },
   {
@@ -68,43 +68,43 @@
   {
     nombre: `actualizar`,
     tipo: `opciones`,
-    logo: `./img/actualizar.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/actualizar.jpg`,
     url: `.actualizar`
   },
   {
     nombre: `borrar cache`,
     tipo: `opciones`,
-    logo: `./img/borrarcache.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/borrarcache.jpg`,
     url: `.borrarcache`
   },
   {
     nombre: `Check Lst`,
     tipo: `opciones`,
-    logo: `./img/checkLst.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/checkLst.jpg`,
     url: `.checkLst`
   },
   {
     nombre: `Add Lst`,
     tipo: `opciones`,
-    logo: `./img/addLst.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/addLst.jpg`,
     url: `.addLst`
   },
   {
     nombre: `Player`,
     tipo: `opciones`,
-    logo: `./img/player.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/player.jpg`,
     url: `.player`
   },
   {
     nombre: `VIP`,
     tipo: `opciones`,
-    logo: `./img/vip.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/vip.jpg`,
     url: `.vip`
   },
   {
     nombre: `Test Keys`,
     tipo: `opciones`,
-    logo: `./img/testkeys.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/testkeys.jpg`,
     url: `.testkeys`
   },
   //--OPCIONES--------------------------------------------------------------------------
@@ -113,25 +113,25 @@
   {
     nombre: `Player HLS`,
     tipo: `player`,
-    logo: `./img/hlsplayer.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/hlsplayer.jpg`,
     url: `.hlsplayer`
   },
   {
     nombre: `Player CLAPPR`,
     tipo: `player`,
-    logo: `./img/clapprplayer.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/clapprplayer.jpg`,
     url: `.clapprplayer`
   },
   {
     nombre: `Player JW`,
     tipo: `player`,
-    logo: `./img/jwplayer.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/jwplayer.jpg`,
     url: `.jwplayer`
   },
   {
     nombre: `Player JS`,
     tipo: `player`,
-    logo: `./img/jsplayer.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/jsplayer.jpg`,
     url: `.jsplayer`
   },
   //--NACIONAL--------------------------------------------------------------------------
@@ -330,19 +330,19 @@
   {
     nombre: `toongoggles`,
     tipo: `infantil`,
-    logo: `./img/toongoggles.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/toongoggles.jpg`,
     url: `https://stream.ads.ottera.tv/playlist.m3u8?network_id=514`
   },
   {
     nombre: `retrocartoons`,
     tipo: `infantil`,
-    logo: `./img/retrocartoons.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/retrocartoons.jpg`,
     url: `https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8`
   },
   {
     nombre: `familytv`,
     tipo: `infantil`,
-    logo: `./img/familytv.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/familytv.jpg`,
     url: `https://tv.webmedialive.com/familytv/live/playlist.m3u8`
   },
   //--VARIADO--------------------------------------------------------------------------
@@ -357,49 +357,49 @@
   {
     nombre: `legendnovela`,
     tipo: `variado`,
-    logo: `./img/legendnovela.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/legendnovela.jpg`,
     url: `https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/1080p/index.m3u8`
   },
   {
     nombre: `tvclasica`,
     tipo: `variado`,
-    logo: `./img/tvclasica.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tvclasica.jpg`,
     url: `https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8`
   },
   {
     nombre: `telemundo39`,
     tipo: `variado`,
-    logo: `./img/telemundo39.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/telemundo39.jpg`,
     url: `https://prodamdtlmdtv.akamaized.net/out/v1/dfdf9195d8e645c6a4372dc25537d4e7/5cc271e1002642baa6978559f28e3e5a/1248c8f441c14f869f1358e0d97d99bc/index.m3u8`
   },
   {
     nombre: `telemundo51`,
     tipo: `variado`,
-    logo: `./img/telemundo51.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/telemundo51.jpg`,
     url: `https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8`
   },
   {
     nombre: `telemundo52`,
     tipo: `variado`,
-    logo: `./img/telemundo52.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/telemundo52.jpg`,
     url: `https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8`
   },
   {
     nombre: `xtremaanimal`,
     tipo: `variado`,
-    logo: `./img/xtremaanimal.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/xtremaanimal.jpg`,
     url: `https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8`
   },
   {
     nombre: `cops`,
     tipo: `variado`,
-    logo: `./img/cops.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/cops.jpg`,
     url: `https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8`
   },
   {
     nombre: `naturetime`,
     tipo: `variado`,
-    logo: `./img/naturetime.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/naturetime.jpg`,
     url: `https://amg01576-blueskyeenterta-naturetimeemea-lges-afzij.amagi.tv/playlist/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8`
   },
   {
@@ -666,49 +666,49 @@
   {
     nombre: `cinehindi`,
     tipo: `cine`,
-    logo: `./img/cinehindi.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/cinehindi.jpg`,
     url: `https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8`
   },
   {
     nombre: `freetvclasic`,
     tipo: `cine`,
-    logo: `./img/freetvclasic.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/freetvclasic.jpg`,
     url: `https://stream.ads.ottera.tv/playlist.m3u8?network_id=16215`
   },
   {
     nombre: `artflix`,
     tipo: `cine`,
-    logo: `./img/artflix.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/artflix.jpg`,
     url: `https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8`
   },
   {
     nombre: `cineromantico`,
     tipo: `cine`,
-    logo: `./img/cineromantico.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/cineromantico.jpg`,
     url: `https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8`
   },
   {
     nombre: `cinefriki`,
     tipo: `cine`,
-    logo: `./img/cinefriki.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/cinefriki.jpg`,
     url: `https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8`
   },
   {
     nombre: `megacine`,
     tipo: `cine`,
-    logo: `./img/megacine.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/megacine.jpg`,
     url: `https://cnn.hostlagarto.com/megacinetv/playlist.m3u8`
   },
   {
     nombre: `scifi`,
     tipo: `cine`,
-    logo: `./img/scifi.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/scifi.jpg`,
     url: `https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8`
   },
   {
     nombre: `boxcine`,
     tipo: `cine`,
-    logo: `./img/boxcine.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/boxcine.jpg`,
     url: `https://distrib.noisypeak.com/d/K9U16RORPWBMXX3B09JH/hls3/now,-1m/1.m3u8`
   },
   {
@@ -975,25 +975,25 @@
   {
     nombre: `luchaplus`,
     tipo: `deportes`,
-    logo: `./img/luchaplus.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/luchaplus.jpg`,
     url: `https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8`
   },
   {
     nombre: `combat`,
     tipo: `deportes`,
-    logo: `./img/combat.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/combat.jpg`,
     url: `https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/1080p/index.m3u8`
   },
   {
     nombre: `barcatv`,
     tipo: `deportes`,
-    logo: `./img/barcatv.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/barcatv.jpg`,
     url: `https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8`
   },
   {
     nombre: `fifaplus`,
     tipo: `deportes`,
-    logo: `./img/fifaplus.jpg`,
+    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/fifaplus.jpg`,
     url: `https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8`
   },
     {
