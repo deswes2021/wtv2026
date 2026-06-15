@@ -1360,6 +1360,6 @@
     nombre: `ballerina`,
     tipo: `peliculas`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/ballerina.jpg`,
-    url: `.weshttps://playmogo.com/e/vhgdnbi3mbq0`
+    url: `https://playmogo.com/e/vhgdnbi3mbq0?.php`
   },    
 ]
