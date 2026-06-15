@@ -967,7 +967,7 @@
     url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=tudn&target=2`
   },
   {
-    nombre: `tudn`,
+    nombre: `tudn este`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tudn.jpg`,
     url: `https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8`
