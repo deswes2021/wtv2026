@@ -201,7 +201,7 @@
     nombre: `canal 12`,
     tipo: `nacionales`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/canal12.jpg`,
-    url: `https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8`
+    url: `https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8`
   },
   {
     nombre: `canal 15`,
