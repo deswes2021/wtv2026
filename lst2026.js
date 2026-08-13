@@ -159,7 +159,7 @@
     nombre: `canal 4`,
     tipo: `nacionales`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/canal4.jpg`,
-    url: `https://signal.teleon.live/stream/canal4sv.m3u8?token=free`
+    url: `https://cdn.jwplayer.com/live/broadcast/bRQCpqIA.m3u8`
   },
   {
     nombre: `canal 5`,
