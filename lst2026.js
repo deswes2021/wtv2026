@@ -960,24 +960,18 @@
   //--DEPORTES--------------------------------------------------------------------------
   //--DEPORTES--------------------------------------------------------------------------
   //--DEPORTES--------------------------------------------------------------------------
-    {
-    nombre: `tudn0`,
-    tipo: `deportes`,
-    logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tudn.jpg`,
-    url: `www.cablevisionhd.com/stream/core.php?canal=tudn?iframe`
-  },
   {
     nombre: `tudn`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tudn.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=tudn&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=tudn&target=2`
   },
   {
     nombre: `tudn este`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tudn.jpg`,
     url: `https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8`
-  },  
+  },
   {
     nombre: `luchaplus`,
     tipo: `deportes`,
@@ -1002,107 +996,107 @@
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/fifaplus.jpg`,
     url: `https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8`
   },
-    {
+  {
     nombre: `tnt sports`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tntsports.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=tntsports&target=1`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=tntsports&target=1`
   },
   {
     nombre: `tntsportschile`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tntsportschile.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=tntsportschile&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=tntsportschile&target=2`
   },
   {
     nombre: `tyc sports`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tycsports.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=tycsports&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=tycsports&target=2`
   },
   {
     nombre: `espn premium`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espnpremium.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espnpremium&target=3`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espnpremium&target=3`
   },
   {
     nombre: `espn`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn&target=2`
   },
   {
     nombre: `espn arg`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espnar.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espnar&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espnar&target=2`
   },
   {
     nombre: `espn col`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espncol.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espncol&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espncol&target=2`
   },
   {
     nombre: `espn2`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn2.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn2&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn2&target=2`
   },
   {
     nombre: `espn2 mx`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn2mx.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn2mexico&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn2mexico&target=2`
   },
   {
     nombre: `espn3`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn3.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn3&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn3&target=2`
   },
   {
     nombre: `espn3mx`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn3mx.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn3mexico&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn3mexico&target=2`
   },
   {
     nombre: `espn4`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn4.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn4&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn4&target=2`
   },
   {
     nombre: `espn4mx`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn4mx.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn4mexico&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn4mexico&target=2`
   },
   {
     nombre: `espn5`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn5.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn5&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn5&target=2`
   },
   {
     nombre: `espn5mx`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn5mx.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn5mexico&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn5mexico&target=2`
   },
   {
     nombre: `espn6`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn6.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn6&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn6&target=2`
   },
   {
     nombre: `espn7`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/espn7.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=espn7&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=espn7&target=2`
   },
   {
     nombre: `espn8`,
@@ -1114,43 +1108,43 @@
     nombre: `foxsports`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/foxsports.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=foxsports&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=foxsports&target=2`
   },
   {
     nombre: `foxsports2`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/foxsports2.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=foxsports2&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=foxsports2&target=2`
   },
   {
     nombre: `foxsports3`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/foxsports3.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=foxsports3&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=foxsports3&target=2`
   },
   {
     nombre: `foxsportsmx`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/foxsportsmx.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=foxsportsmexico&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=foxsportsmexico&target=2`
   },
   {
     nombre: `foxsports2mx`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/foxsports2mx.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=foxsports2mexico&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=foxsports2mexico&target=2`
   },
   {
     nombre: `foxsports3mx`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/foxsports3mx.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=foxsports3mexico&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=foxsports3mexico&target=2`
   },
   {
     nombre: `foxsportspremium`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/foxsportspremium.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=foxsportspremium&target=3`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=foxsportspremium&target=3`
   },
   {
     nombre: `dsportur`,
@@ -1162,97 +1156,97 @@
     nombre: `directvsports`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/directvsports.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsports&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=directvsports&target=2`
   },
   {
     nombre: `directvsports2`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/directvsports2.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsports2&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=directvsports2&target=2`
   },
   {
     nombre: `directvsportsplus`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/directvsportsplus.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsportsplus&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=directvsportsplus&target=2`
   },
   {
     nombre: `winsports`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/winsports.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=winsports&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=winsports&target=2`
   },
   {
     nombre: `winsportsplus`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/winsportsplus.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=winsportsplus&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=winsportsplus&target=2`
   },
   {
     nombre: `liga1`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/liga1.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=liga1&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=liga1&target=2`
   },
   {
     nombre: `liga1max`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/liga1max.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=liga1max&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=liga1max&target=2`
   },
   {
     nombre: `movistardeportes`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/movistardeportes.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=movistardeportes&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=movistardeportes&target=2`
   },
   {
     nombre: `movistarlaliga`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/movistarlaliga.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=movistarlaliga&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=movistarlaliga&target=2`
   },
   {
     nombre: `movistardeporteses`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/movistardeporteses.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=movistardeporteses&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=movistardeporteses&target=2`
   },
   {
     nombre: `beinsportsxtra`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/beinsportsxtra.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=beinsportsxtra&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=beinsportsxtra&target=2`
   },
   {
     nombre: `aztecadeportes`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/aztecadeportes.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=aztecadeportes&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=aztecadeportes&target=2`
   },
   {
     nombre: `nba`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/nba.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=nba&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=nba&target=2`
   },
   {
     nombre: `skysportsmexico`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/skysportsmexico.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=skysportsmexico&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=skysportsmexico&target=2`
   },
   {
     nombre: `skysportsbundesliga`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/skysportsbundesliga.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=skysportsbundesliga&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=skysportsbundesliga&target=2`
   },
   {
     nombre: `skysportsf1`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/skysportsf1.jpg`,
-    url: `https://deportes.ksdjugfsddeports.com/stream.php?canal=skysportsf1&target=2`
+    url: `https://deportes.ksdjugfssddeports.com/stream.php?canal=skysportsf1&target=2`
   },
   {
     nombre: `madrid tv`,
@@ -1355,7 +1349,7 @@
     tipo: `peliculas`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/mariobros.jpg`,
     url: `https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4`
-  },  
+  },
   {
     nombre: `Guardianes V2`,
     tipo: `peliculas`,
@@ -1367,5 +1361,5 @@
     tipo: `peliculas`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/ballerina.jpg`,
     url: `https://playmogo.com/e/vhgdnbi3mbq0?.php`
-  },    
+  },
 ]
