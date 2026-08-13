@@ -964,7 +964,7 @@
     nombre: `tudn0`,
     tipo: `deportes`,
     logo: `https://raw.githubusercontent.com/deswes2021/wtv2026/main/img/tudn.jpg`,
-    url: `www.cablevisionhd.com/stream/core.php?canal=tudn`
+    url: `www.cablevisionhd.com/stream/core.php?canal=tudn?iframe`
   },
   {
     nombre: `tudn`,
